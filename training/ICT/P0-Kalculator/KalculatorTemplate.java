@@ -1,4 +1,4 @@
-public class Kalculator {
+public class KalculatorTemplate {
 	//******INSERT YOUR CODE HERE***********
 	//Class attributes go here
 	//**************************************
@@ -6,7 +6,7 @@ public class Kalculator {
 	 * Constructor is the fist method to be call at instantiation of a Kalculator object.
 	 * If you need to initialize your object, do so here. 
 	 */
-	Kalculator()
+	KalculatorTemplate()
 	{
 		//******INSERT YOUR CODE HERE***********
 		
