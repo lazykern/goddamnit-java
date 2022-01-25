@@ -1,8 +1,3 @@
-/**
- * This class is responsible for testing Kalculator.
- * --------- DO NOT MODIFY THIS FILE --------------
- * @author suppawong
- */
 import java.util.Arrays;
 
 public class KalculatorStudentTester {
