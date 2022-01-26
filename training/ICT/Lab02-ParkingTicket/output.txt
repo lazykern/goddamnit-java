@@ -1,0 +1,14 @@
+Entering time -> 0950
+Leaving time -> 1715
+Parking duration: 7 hours and 25 minutes
+
+========== | 1 hours
+========== | 2 hours
+========== | 3 hours
+========== | 4 hours
+========== | 5 hours
+========== | 6 hours
+========== | 7 hours
+====       | 25 minutes
+
+Total parking fee: 250 Baht
