@@ -23,6 +23,7 @@ tempCodeRunnerFile.java
 *.tar.gz
 *.rar
 
+.vscode/
 .idea/
 .classpath
 .project
