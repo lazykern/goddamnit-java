@@ -24,3 +24,5 @@ tempCodeRunnerFile.java
 *.rar
 
 .idea/
+.classpath
+.project
