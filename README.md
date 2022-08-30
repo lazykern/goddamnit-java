@@ -1,2 +1,3 @@
 ## Introduction
-This repository is used as my Java training ground.
+This was once my java training ground.
+It's not to be used anymore.
